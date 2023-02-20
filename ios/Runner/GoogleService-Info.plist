@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>535991727261-3n8ttvfrilm8li2gdlpl5lqvh0ngkkek.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.535991727261-3n8ttvfrilm8li2gdlpl5lqvh0ngkkek</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCOCj5SGHn0C_bJrVp25Ndz2HoRk-UfxXk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>535991727261</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.practica12GridMenu</string>
+	<key>PROJECT_ID</key>
+	<string>practica12moviles</string>
+	<key>STORAGE_BUCKET</key>
+	<string>practica12moviles.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:535991727261:ios:557bd2eeefda4ead7cd074</string>
+</dict>
+</plist>

@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "535991727261",
+    "project_id": "practica12moviles",
+    "storage_bucket": "practica12moviles.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535991727261:android:94c33538e0bc7fec7cd074",
+        "android_client_info": {
+          "package_name": "com.example.practica_12_grid_menu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535991727261-tc8nllje6m8o9o3pjjj61da3u8s76551.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLgjoMi0E3TSLaRMmmIsFj9YqYqVn2mmI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535991727261-tc8nllje6m8o9o3pjjj61da3u8s76551.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "535991727261-a43l366e8jho1qfq6smdvieh1irob5dv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.practicaApiRestApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535991727261:android:208579a9a37e23e37cd074",
+        "android_client_info": {
+          "package_name": "com.example.practica_api_rest_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535991727261-tc8nllje6m8o9o3pjjj61da3u8s76551.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLgjoMi0E3TSLaRMmmIsFj9YqYqVn2mmI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535991727261-tc8nllje6m8o9o3pjjj61da3u8s76551.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "535991727261-a43l366e8jho1qfq6smdvieh1irob5dv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.practicaApiRestApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
